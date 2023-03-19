@@ -6,13 +6,13 @@ er
 g
 fg
 rtb hṇB
-gergrGerr
+f
 g
 !D grfgrgOCTfgfdgfsgfegYfgPE htgrge5rtgegml>
 <htmlfgfgffgfdg>dfdf3
 
 
-
+g
 
 th
 
@@ -21,7 +21,7 @@ y
 t
 h
 tynb
- t
+ tfgfgf
  n
  rtH
  th
@@ -31,18 +31,18 @@ tynb
  tY
  rty
  r
- yt
+ ytfg
  re
- ytt
- ry
- tretg
- Rtb 
- rgB
+ yttfg
+ ryfg
+ tretgfg
+ Rtb fg
+ rgBfg
   rgr
-  ghWE%$
+  ghWE%$g
   tgv
-  3r
-
+  3rgf
+gf
 f
 d
 
@@ -53,7 +53,7 @@ d\]f\[]
 
 df
 d
-f3
+f3gfgfgfgfgfgfgf
 s3g
 1rwg
 '\rle;fg/dAv
@@ -62,23 +62,18 @@ s3g
 <?php
 echo(min(f
 d
-f
-d
-
+fdfgdf
+ddfgdf
+dfgdf
 f
 d
 f
 0, 150, 30, 20, -8, -200) . "<br>");
 echo(max(0, f
-
+gsrfg
 ef
-dverdhb
-
-h\rt
-h
-ey64
-jy
-h
+fghfd
+yjryyjfyu 
 yg
 thgt
 y
@@ -87,7 +82,7 @@ wet43
 t
 v5t
 er
-g
+grttup=yj
 ert
 wer
 t
@@ -97,24 +92,23 @@ ert
 e
 f
 150, 30, 20, -8, -200));
-
-
-
-d
-gre
+fghdj
 tg
 ?>
-fgv3rtfcqwrqr
-dgv 
-df
-v.0.
-f
-v1f
+fgv3hteher
 
-eddV
-erdf
-c
-FCVr
+df
+hbn
+he
+
+ufbfbfdba
+ 
+ burtfcqwrqr
+dbfgv 
+dffbfb
+v1f
+hffbgbdfsbCVrhgh
 f
 
 fc</htmvdssvsgl>
+fdbfdbfbfbfbfbfb
