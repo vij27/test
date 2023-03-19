@@ -1,4 +1,5 @@
 <
+1=======
 1
 2
 gr
@@ -14,15 +15,10 @@ g
 <htmlfgfgffgfdg>dfdf3
 
 
-g
-
+gxcv
+xcxcxc
 th
 
-t
-y
-t
-h
-tynb
  tfgfgf
  n
  rtH
@@ -38,79 +34,121 @@ tynb
  yttfg
  ryfg
  tretgfg
- Rtb fg
+ Rtb fsssssssssssssg
  rgBfg
-  rgr
-  ghWE%$g
-  tgv
-  3rgf
-gf
-f
+  rgrsssssssssssss
+  ghWssssssssssssE%$g
+ 
+gfsssssssssssssss
+fsssssssssssss
 d
 
-f
+fsssssssssssssssssssssssss
 d
 f
-d\]f\[]
-
+d\]ssssssssssssssssssssssssssssf\[sssssssssss]
+sssssssssssssssssssss
 df
 d
 f3gfgfgfgfgfgfgf
 s3g
 1rwg
 '\rle;fg/dAv
-<body>
-
+<bossssssssssssssssssssssssssssssdy>
+sssssssssssssssssssssssss
 <?php
 echo(min(f
 d
-fdfgdf
+fdfgdsssssssssssssssssssssssf
 ddfgdf
 dfgdf
 f
 d
 f
-0, 150, 30, 20, -8, -200) . "<br>");
+0, 150sssssssssssss, 30, 20, -8, -200) . "<br>");
 echo(max(0, f
-gsrfg
-ef
+gsrfgy
+efssssssssssssss
 fghfd
 yjryyjfyu 
-yg
+ygsssssssssssssssssssssssss
 thgt
 y
 reet
 wet43
 t
 v5t
-er
-grttup=yj
-ert
-wer
-t
-er
-t
-ert
-e
-f
-150, 30, 20, -8, -200));
-fghdj
-tg
-?>
-fgv3hteher
+erss
 
-df
-hbn
+d
+sa
+f
+ae
+rb
+
+qe
+tyg
 he
+teth
 
-ufbfbfdba
- 
- burtfcqwrqr
-dbfgv 
-dffbfb
-v1f
-hffbgbdfsbCVrhgh
+et
+h
+et
+h
+ea t
+yg
+aer/g;
+e5bk6tyon9=
+grttup=yj
+ertertsssssssssssgsertenst4wrstyrt
+wer
+tsssssss.f
+s
 f
+. rs
+t.gn
+e6u3076128me*'\umn
+jnni
+er ssssssssssssssss 
+ssssssssssssssssssssssssssssssssssss
 
-fc</htmvdssvsgl>
-fdbfdbfbfbfbfbfb
+fd
+
+f
+ d.tf
+ ne
+ tgsssssssssssssssssssssssssssssssssssssssssnrt
+ thsssssssssssss.
+ tgj03
+ yssssssssssssr0j36
+ u3
+ 657y5tsssssssssssssy5ryretg
+t
+ert
+esssssssssss
+f
+150, 30sssssssssssssssssssssssss, 20, -8, -200));
+fghsssssssssssssssssssssssssssssssssssdj
+tgsssssssssssssss
+?>ssssssssssss
+fgvssssssssssssss3hteher
+ssssssssssssssss
+sssssssssssfssssssssssss
+hbssssssssssssssn
+he
+sssssssssssssss
+ufbfbfdba
+ ssssssssssss
+ burtfcqwrqr
+dbfgv ssssssssssssssssssssssssssssssssssssssssssssss
+dffbfb
+v1fssssssssssssssssssssssssssssss
+
+ssssssssssssssssssssssssssssssssssssssssssssss
+ssssssssssss
+sssssssssssssssssssssss
+hffbssssssssssssssssssssssssssssgbdfsbCVrhgh
+fsssssssssssssss
+sssssssssss
+fc</htmvdssssssssssssssssssssssssvsgl>
+fdbfdbfbssssssssssssfbfbfbfbsssssssssssssssssssssssssssssss
